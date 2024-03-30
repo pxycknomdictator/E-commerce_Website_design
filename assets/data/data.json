@@ -1,0 +1,45 @@
+[
+    {
+        "title": "Step Into Fashion",
+        "price": "$25.75",
+        "description": "Elevate your style with our trendy shoes collection. From casual sneakers to elegant heels, find the perfect pair for every occasion.",
+        "reviews": "Reviews(24)",
+        "src": "./assets/images/product_01.jpg"
+    },
+    {
+        "title": "The Ultimate Sweater Collection",
+        "price": "$30.25",
+        "description": "Wrap yourself in warmth and style with our curated sweater collection. From classic knits to modern designs, find the perfect sweater to stay cozy and chic all season long.",
+        "reviews": "Reviews(21)",
+        "src": "./assets/images/product_02.jpg"
+    },
+    {
+        "title": "Unveiling Our Blanket Collection",
+        "price": "$20.45",
+        "description": "Wrap yourself in comfort and style with our luxurious blanket collection, designed to keep you cozy and warm through the coldest nights.",
+        "reviews": "Reviews(36)",
+        "src": "./assets/images/product_03.jpg"
+    },
+    {
+        "title": "Snowman Soft Toys Collection",
+        "price": "$15.25",
+        "description": "Bring the magic of winter indoors with our adorable snowman soft toys, perfect for cuddling and spreading holiday cheer. Crafted with care, they're sure to melt hearts all season long.",
+        "reviews": "Reviews(48)",
+        "src": "./assets/images/product_04.jpg"
+    },
+    {
+        "title": "Introducing Our Latest Sweater Arrival",
+        "price": "$12.50",
+        "description": "Elevate your winter wardrobe with our newest sweater, blending style and comfort effortlessly. Embrace the season in cozy sophistication.",
+        "reviews": "Reviews(16)",
+        "src": "./assets/images/product_05.jpg"
+    },
+    {
+        "title": "Snowman Bell Collection",
+        "price": "$22.50",
+        "description": "Add a touch of whimsy to your holiday decor with our charming snowman bells. Crafted with care and adorned with festive details, they're sure to spread joy and merriment wherever they chime.",
+        "reviews": "Reviews(32)",
+        "src": "./assets/images/product_06.jpg"
+    }
+]
+
